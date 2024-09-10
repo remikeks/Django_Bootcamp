@@ -1,6 +1,6 @@
 This is the first clas of our bootcamp
 NACOS
 
-2025
+2024
 
 Added a new paragraph for the sake of introduction.
